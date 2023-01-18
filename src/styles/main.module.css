@@ -1,0 +1,8 @@
+.active {
+  color: red;
+}
+
+.navigation>* {
+  margin-right: 20px;
+  text-decoration: none;
+}

@@ -1,0 +1,9 @@
+.navigation {
+  display: flex;
+  list-style: none;
+  gap: 32px;
+}
+
+.navigation a:hover {
+  text-decoration: underline;
+}
